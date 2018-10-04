@@ -2,7 +2,7 @@ import random
 
 def main():
     
-    print("Welcome to the CIMS Gumball Machine Simulator")
+    print("Welcome to Nat's Gumball Machine Simulator")
     print()
     print("You are starting with the following Gumballs: ")
     print()
